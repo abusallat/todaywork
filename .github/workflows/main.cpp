@@ -6,8 +6,8 @@ int main() {
     cout << "Enter two numbers: ";
     cin >> a >> b;
     
-    cout << "Addition: " << (a + b) << std::endl;
-    cout << "Subtraction: " << (a - b) << std::endl;
+    cout << "Addition: " << (a + b) << endl;
+    cout << "Subtraction: " << (a - b) << endl;
 
     return 0;
 }
